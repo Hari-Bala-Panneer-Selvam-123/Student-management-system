@@ -1,0 +1,26 @@
+{
+    "30": {
+        "grade": "O",
+        "marks": 100,
+        "name": "Abinayasri Murugan",
+        "roll_no": 30
+    },
+    "80": {
+        "grade": "O",
+        "marks": 99,
+        "name": "hari bala",
+        "roll_no": 80
+    },
+    "82": {
+        "grade": "A+",
+        "marks": 80,
+        "name": "priyanka",
+        "roll_no": 82
+    },
+    "96": {
+        "grade": "O",
+        "marks": 90,
+        "name": "SIVA",
+        "roll_no": 96
+    }
+}
